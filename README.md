@@ -1,4 +1,9 @@
-# react-native-cached-image
+# rn-cached-image
+This is a fork of 'react-native-cached-image' that resolve problem of :
+- New Netinfo integration
+- Remove unsupported react-native-fetch-blob using instead rn-fetch-blob
+
+# Original docs from -> react-native-cached-image
 
 CachedImage component for react-native
 
